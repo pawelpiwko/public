@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/WordProcessingAPI/.vs
+/WordProcessingAPI/WordProcessingAPI/bin/Debug/netcoreapp2.0
+/WordProcessingAPI/WordProcessingAPI/obj
+/WordProcessingAPI/WordProcessingAPI.UnitTests/bin/Debug/netcoreapp2.0
+/WordProcessingAPI/WordProcessingAPI.UnitTests/obj
