@@ -31,7 +31,6 @@ namespace WordProcessingAPI
             services.AddScoped<IWordProcessingService, WordProcessingService>();
 
             var builder = services.AddMvc(d => d.Filters.Add(typeof(GlobalExceptionFilter)));
-
         }
 
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
